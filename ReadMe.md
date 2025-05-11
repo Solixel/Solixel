@@ -1,5 +1,9 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ## ¡Hola mundo! <br><br>👋 Soy Sol, una estudiante de desarrollo de aplicaciones web 🚀<br>🔭 Actualmente estoy trabajando en proyectos personales para reforzar mis habilidades con Java y Python.<br>🌱 Estoy aprendiendo sobre bases de datos MySQL y ObjectDB.<br>⚡ Dato curioso: Soy criminóloga!<br>📚 Siempre con ganas de aprender, mejorar y compartir lo que voy descubriendo.<br>📫 Contacto: nsmcurbalan@gmail.com<br>
+
+# 💫 About Me:
+## Hello world! <br><br>👋 I'm Sol, a web application development student 🚀<br>🔭 I'm currently working on personal projects to strengthen my skills in Java and Python.<br>🌱 I'm learning about MySQL and ObjectDB databases.<br>⚡ Fun fact: I'm also a criminologist!<br>📚 Always eager to learn, improve, and share what I discover.<br>📫 Contact: nsmcurbalan@gmail.com<br>
+
 
 
 ## 🌐 Socials:
