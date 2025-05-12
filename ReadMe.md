@@ -7,7 +7,7 @@
 <p>
 👋 Soy Sol, una estudiante de desarrollo de aplicaciones web 🚀  <br>
 🔭 Actualmente estoy trabajando en proyectos personales para reforzar mis habilidades con Java y Python.  <br>
-🌱 Estoy aprendiendo sobre bases de datos MySQL y ObjectDB.  <br>
+🌱 Estoy aprendiendo sobre bases de datos MySQL y ObjectDB, entre otras cosas.  <br>
 ⚡ Dato curioso: Soy criminóloga!  <br>
 📚 Siempre con ganas de aprender, mejorar y compartir lo que voy descubriendo.<br>
 </p>
