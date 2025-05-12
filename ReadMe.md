@@ -3,7 +3,7 @@
   <img src="Header.png" alt="Header Image" width="1000" />
 </p>
 <p align="left"> <h1>💫 Sobre mi: </h1> </p>
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM5MmN0bGt1aWltc3l5NGlpZ3ozanl1aWNzNXV0MWVlOW8yNzU1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cekRR561cp6tpnG8ZC/giphy.gif" />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM5MmN0bGt1aWltc3l5NGlpZ3ozanl1aWNzNXV0MWVlOW8yNzU1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cekRR561cp6tpnG8ZC/giphy.gif" />
 <p>
 👋 Soy Sol, una estudiante de desarrollo de aplicaciones web 🚀  <br>
 🔭 Actualmente estoy trabajando en proyectos personales para reforzar mis habilidades con Java y Python.  <br>
@@ -53,8 +53,8 @@
 
 <h2></h2> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Solixel&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Solixel&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=es&hide_border=true&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Solixel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Solixel&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -63,7 +63,7 @@
 <img src="https://raw.githubusercontent.com/Solixel/Solixel/output/snake.svg" alt="Snake animation" />
 
 <h2></h2> 
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/Solixel/count.svg?"  />
 </div>
 
