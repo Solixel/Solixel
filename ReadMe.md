@@ -11,7 +11,7 @@
 ⚡ Dato curioso: Soy criminóloga!  <br>
 📚 Siempre con ganas de aprender, mejorar y compartir lo que voy descubriendo.<br>
 </p>
-<h2> ✉️Contacto: </h2> 
+<h1> ✉️Contacto: </h1> 
 <div align="left">
   <a href="https://www.linkedin.com/in/natashasolange/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
-<h2> 👀Habilidades: </h2> 
+<h1> 👀Habilidades: </h1> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
